@@ -3,6 +3,8 @@
 
 Neste conteúdo estou iniciando os meus passos em Data Science, e como é de praxe estou vendo a introdução neste incrível universo. 
 
+Este curso foi realizado na plataforma Alura.
+
 
 ## Neste notebook foi estudado os seguintes itens: 
 
