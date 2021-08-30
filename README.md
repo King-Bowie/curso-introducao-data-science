@@ -12,5 +12,5 @@ Este curso foi realizado na plataforma Alura.
 - Conheçendo os tipos de variáveis.
 - Entender o papel de visualizações como histogramas e boxplots.
 - Entender a importância e os primeiros passos em visualizações.
-- Utilização medidas de resumo.
+- Utilização das medidas de resumo.
 - Exploração dos dados em Python com Pandas, Matplotlib e Seaborn.
